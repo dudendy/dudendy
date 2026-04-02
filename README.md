@@ -5,10 +5,15 @@ Full-stack TypeScript engineer. I build web apps, APIs, and automation systems �
 ## stack
 
 **Frontend** — Next.js · React · TypeScript · Tailwind CSS · Framer Motion · TanStack (Query · Table · Router · Form) · PWA · SSR/SSG/ISR
+
 **Backend** — GraphQL · Apollo Server/Client · Prisma · PostgreSQL · REST APIs
+
 **Auth** — JWT · OAuth2 · NextAuth · RBAC
+
 **Cloud** — AWS (CDK · Lambda · ECS · SQS · S3 · EventBridge · CloudWatch) · DigitalOcean (Droplets · Managed Databases) · GCP (Cloud Run) · Vercel
+
 **Tooling** — Bun · Node.js · Docker · Git · CI/CD
+
 **AI Design** — Pencil · Stitch
 
 ## workflow
@@ -19,7 +24,7 @@ Heavy Claude Code user with a custom setup — agents, slash commands, skills, a
 
 - Full-stack web apps with Next.js App Router and GraphQL APIs
 - Cloud infrastructure across AWS, DigitalOcean, and GCP — serverless, containerized, and managed services
-- Intelligent bots and automation systems for gaming platforms
+- Intelligent agents and automation systems for gaming platforms
 - Real-time systems with background workers and job queues
 
 ## currently working on
