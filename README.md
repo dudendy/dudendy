@@ -6,7 +6,7 @@ Full-stack TypeScript engineer. I build web apps, APIs, and automation systems �
 
 **Frontend** — Next.js · React · TypeScript · Tailwind CSS · Framer Motion · TanStack (Query · Table · Router · Form) · PWA · SSR/SSG/ISR
 
-**Backend** — GraphQL · Apollo Server/Client · Prisma · PostgreSQL · REST APIs
+**Backend** — GraphQL · Apollo Server/Client · Prisma · PostgreSQL · REST APIs · Query Tuning · Indexing · Cost Optimization
 
 **Auth** — JWT · OAuth2 · NextAuth · RBAC
 
