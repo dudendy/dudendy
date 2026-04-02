@@ -38,6 +38,7 @@ strategist · perfectionist · detail-oriented
 ## open to
 
 part-time contracts · freelance · full-time remote roles
+
 especially interested in: gaming, Web3, developer tools, and AI-adjacent products
 
 ## reach me
