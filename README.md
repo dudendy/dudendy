@@ -8,7 +8,7 @@ full-stack TypeScript engineer. I build web apps, APIs, and automation systems �
 
 **backend** — GraphQL · Apollo Server/Client · Prisma · PostgreSQL · REST APIs · query tuning · indexing · cost optimization
 
-**auth** — JWT · OAuth2 · NextAuth · RBAC
+**auth** — JWT · OAuth · NextAuth · RBAC
 
 **cloud** — AWS (CDK · Lambda · ECS · SQS · S3 · EventBridge · CloudWatch) · DigitalOcean (Droplets · Managed Databases) · GCP (Cloud Run) · Vercel
 
