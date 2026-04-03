@@ -12,6 +12,8 @@ full-stack TypeScript engineer. I build web apps, APIs, and automation systems �
 
 **cloud** — AWS (CDK · Lambda · ECS · SQS · S3 · EventBridge · CloudWatch) · DigitalOcean (Droplets · Managed Databases) · GCP (Cloud Run) · Vercel
 
+**blockchain** — Solidity · Hardhat · Foundry · The Graph · MUD · Dojo
+
 **tooling** — Bun · Node.js · Docker · Git · CI/CD
 
 **AI design** — Pencil · Stitch
